@@ -7,11 +7,15 @@ Medical_Datasets/
 lfw/
 logs/
 log/
+**/log/
+**/data/
 model_data/
 .temp_map_out/
 img_test*/
+cat_and_dog*/
 
 # Byte-compiled / optimized / DLL files
+**/__pycache__/
 __pycache__/
 *.py[cod]
 *$py.class
