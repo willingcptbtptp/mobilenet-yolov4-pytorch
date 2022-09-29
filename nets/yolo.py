@@ -12,7 +12,10 @@ from .mobilenet_v3 import mobilenet_v3
 from .resnet import resnet50
 from .vgg import vgg
 
+from warnings import simplefilter
 
+
+simplefilter("ignore", category=FutureWarning)
 class MobileNetV1(nn.Module):
     def __init__(self, pretrained = False):
         super(MobileNetV1, self).__init__()
@@ -30,6 +33,8 @@ class MobileNetV2(nn.Module):
         self.model = mobilenet_v2(pretrained=pretrained)
 
     def forward(self, x):
+        #每个self.model.feature都是一个Sequential模型，有forward方法，所以可以直接
+        #当做网络进行调用
         out3 = self.model.features[:7](x)
         out4 = self.model.features[7:14](out3)
         out5 = self.model.features[14:18](out4)
@@ -138,6 +143,14 @@ def conv2d(filter_in, filter_out, kernel_size, groups=1, stride=1):
     ]))
 
 def conv_dw(filter_in, filter_out, stride = 1):
+    '''
+    mobielnet对普通3*3卷积的替代
+    “深度卷积（3*3）+点卷积（1*1）”模块，包含两个卷积以及每层后面的BN和relu6层
+    :param filter_in:输入channel
+    :param filter_out:输出channel
+    :param stride:
+    :return:
+    '''
     return nn.Sequential(
         nn.Conv2d(filter_in, filter_in, 3, stride, 1, groups=filter_in, bias=False),
         nn.BatchNorm2d(filter_in),
@@ -153,6 +166,10 @@ def conv_dw(filter_in, filter_out, stride = 1):
 #   池化后堆叠
 #---------------------------------------------------#
 class SpatialPyramidPooling(nn.Module):
+    '''
+    池化金字塔层，分别经过3个pool_size的same池化与一个shortcut，
+    输出4*in_channel大小的输出层
+    '''
     def __init__(self, pool_sizes=[5, 9, 13]):
         super(SpatialPyramidPooling, self).__init__()
 
@@ -168,6 +185,10 @@ class SpatialPyramidPooling(nn.Module):
 #   卷积 + 上采样
 #---------------------------------------------------#
 class Upsample(nn.Module):
+    '''
+    上采样层，先经过1*1conv修改channel，再通过最近邻差值修改大小
+    init：（输入channel，输出channel）
+    '''
     def __init__(self, in_channels, out_channels):
         super(Upsample, self).__init__()
 
@@ -184,6 +205,12 @@ class Upsample(nn.Module):
 #   三次卷积块
 #---------------------------------------------------#
 def make_three_conv(filters_list, in_filters):
+    '''
+    三次卷积模块 1*1 + 3*3 + 1*1
+    :param filters_list: [1*1的输出层channel，3*3的输出层channel]
+    :param in_filters: 输入层channel
+    :return:
+    '''
     m = nn.Sequential(
         conv2d(in_filters, filters_list[0], 1),
         conv_dw(filters_list[0], filters_list[1]),
@@ -195,6 +222,12 @@ def make_three_conv(filters_list, in_filters):
 #   五次卷积块
 #---------------------------------------------------#
 def make_five_conv(filters_list, in_filters):
+    '''
+    五次卷积模块，1*1 + 3*3 + 1*1 + 3*3 + 1*1
+    :param filters_list: [1*1卷积的输出channel，3*3卷积的输出channel]
+    :param in_filters: 输入channel
+    :return:
+    '''
     m = nn.Sequential(
         conv2d(in_filters, filters_list[0], 1),
         conv_dw(filters_list[0], filters_list[1]),
@@ -208,6 +241,15 @@ def make_five_conv(filters_list, in_filters):
 #   最后获得yolov4的输出
 #---------------------------------------------------#
 def yolo_head(filters_list, in_filters):
+    '''
+    YOLOhead部分是一个3*3 + 1*1，这个是接在make_five_conv后面的
+    其中3*3就是我之前认为3对（1*1+3*3）的最后一个3*3，实际上该卷积被分到YOLOhead中
+    其中1*1是最后的输出层，输出channel为anchor_num*（5+class_num）
+
+    :param filters_list:[3*3卷积的输出channel，1*1卷积的输出channel]
+    :param in_filters:输入channel
+    :return:
+    '''
     m = nn.Sequential(
         conv_dw(in_filters, filters_list[0]),
         
@@ -220,7 +262,7 @@ def yolo_head(filters_list, in_filters):
 #   yolo_body
 #---------------------------------------------------#
 class YoloBody(nn.Module):
-    def __init__(self, anchors_mask, num_classes, backbone="mobilenetv2", pretrained=False):
+    def __init__(self, anchors_mask, num_classes, backbone="mobilenetv2", pretrained=False,ratio=1):
         super(YoloBody, self).__init__()
         #---------------------------------------------------#   
         #   生成mobilnet的主干模型，获得三个有效特征层。
@@ -233,7 +275,7 @@ class YoloBody(nn.Module):
             in_filters      = [256, 512, 1024]
         elif backbone == "mobilenetv2":
             #---------------------------------------------------#   
-            #   52,52,32；26,26,92；13,13,320
+            #   52,52,32；26,26,96；13,13,320
             #---------------------------------------------------#
             self.backbone   = MobileNetV2(pretrained=pretrained)
             in_filters      = [32, 96, 320]
@@ -274,35 +316,56 @@ class YoloBody(nn.Module):
         else:
             raise ValueError('Unsupported backbone - `{}`, Use mobilenetv1, mobilenetv2, mobilenetv3, ghostnet, vgg, densenet121, densenet169, densenet201, resnet50.'.format(backbone))
 
-        self.conv1           = make_three_conv([512, 1024], in_filters[2])
+        #ratio表示的是PANet部分的通道缩放系数，默认为1
+        ratio=1
+        
+        #下面这些层是实现PANet的层
+        #表示PANet中的channel数,如果直接相乘是float类型，conv会出错，需要转成int
+        c_2048=int(2048*ratio)
+        c_1024=int(1024*ratio)
+        c_512=int(512*ratio)
+        c_256=int(256*ratio)
+        c_128=int(128*ratio)
+
+
+        self.conv1           = make_three_conv([c_512, c_1024], in_filters[2])
         self.SPP             = SpatialPyramidPooling()
-        self.conv2           = make_three_conv([512, 1024], 2048)
+        self.conv2           = make_three_conv([c_512, c_1024], c_2048)
 
-        self.upsample1       = Upsample(512, 256)
-        self.conv_for_P4     = conv2d(in_filters[1], 256,1)
-        self.make_five_conv1 = make_five_conv([256, 512], 512)
+        self.upsample1       = Upsample(c_512, c_256)
+        self.conv_for_P4     = conv2d(in_filters[1], c_256,1)
+        self.make_five_conv1 = make_five_conv([c_256, c_512], c_512)
 
-        self.upsample2       = Upsample(256, 128)
-        self.conv_for_P3     = conv2d(in_filters[0], 128,1)
-        self.make_five_conv2 = make_five_conv([128, 256], 256)
-
-        # 3*(5+num_classes) = 3*(5+20) = 3*(4+1+20)=75
-        self.yolo_head3      = yolo_head([256, len(anchors_mask[0]) * (5 + num_classes)], 128)
-
-        self.down_sample1    = conv_dw(128, 256, stride = 2)
-        self.make_five_conv3 = make_five_conv([256, 512], 512)
+        self.upsample2       = Upsample(c_256, c_128)
+        self.conv_for_P3     = conv2d(in_filters[0], c_128,1)
+        self.make_five_conv2 = make_five_conv([c_128, c_256], c_256)
 
         # 3*(5+num_classes) = 3*(5+20) = 3*(4+1+20)=75
-        self.yolo_head2      = yolo_head([512, len(anchors_mask[1]) * (5 + num_classes)], 256)
+        self.yolo_head3      = yolo_head([c_256, len(anchors_mask[0]) * (5 + num_classes)], c_128)
 
-        self.down_sample2    = conv_dw(256, 512, stride = 2)
-        self.make_five_conv4 = make_five_conv([512, 1024], 1024)
+        self.down_sample1    = conv_dw(c_128, c_256, stride = 2)
+        self.make_five_conv3 = make_five_conv([c_256, c_512], c_512)
+
+        # 3*(5+num_classes) = 3*(5+20) = 3*(4+1+20)=75
+        self.yolo_head2      = yolo_head([c_512, len(anchors_mask[1]) * (5 + num_classes)], c_256)
+
+        self.down_sample2    = conv_dw(c_256, c_512, stride = 2)
+        self.make_five_conv4 = make_five_conv([c_512, c_1024], c_1024)
 
         # 3*(5+num_classes)=3*(5+20)=3*(4+1+20)=75
-        self.yolo_head1      = yolo_head([1024, len(anchors_mask[2]) * (5 + num_classes)], 512)
+        self.yolo_head1      = yolo_head([c_1024, len(anchors_mask[2]) * (5 + num_classes)], c_512)
 
 
     def forward(self, x):
+        '''
+        这部分主要实现FPN+PAN结构
+        该部分网络除了修改与backbone的接口的网络层数
+        其余部分与YOLOv4一模一样，层数都没有改变
+        :param x:
+        :return:
+        '''
+        #x2，x1，x0对应特征图从大到小的输出
+        # 例如mobilenetv2就是x2=32*52*52，x1=96*26*26，x2=320*13*13
         #  backbone
         x2, x1, x0 = self.backbone(x)
 

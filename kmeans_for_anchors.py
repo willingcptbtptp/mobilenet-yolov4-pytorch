@@ -45,7 +45,7 @@ def kmeans(box, k):
     np.random.seed()
 
     #-------------------------------------------------------------#
-    #   随机选5个当聚类中心
+    #   随机选k个当聚类中心
     #-------------------------------------------------------------#
     cluster = box[np.random.choice(row, k, replace = False)]
 
@@ -119,8 +119,13 @@ if __name__ == '__main__':
     #-------------------------------------------------------------#
     #   载入数据集，可以使用VOC的xml
     #-------------------------------------------------------------#
-    path        = 'VOCdevkit/VOC2007/Annotations'
-    
+    # path        = 'VOCdevkit/VOC2007/Annotations'
+    path = 'VOCdevkit/VOCfire_city/Annotations'
+
+    #聚类的anchor保存路径
+    saved_path=r'yolo_anchors.txt'
+
+
     #-------------------------------------------------------------#
     #   载入所有的xml
     #   存储格式为转化为比例后的width,height
@@ -152,7 +157,8 @@ if __name__ == '__main__':
     print('avg_ratio:{:.2f}'.format(avg_iou(data, cluster)))
     print(cluster)
 
-    f = open("yolo_anchors.txt", 'w')
+    f = open(saved_path, 'w')
+    # f = open("VOCfire_anchors.txt", 'w')
     row = np.shape(cluster)[0]
     for i in range(row):
         if i == 0:

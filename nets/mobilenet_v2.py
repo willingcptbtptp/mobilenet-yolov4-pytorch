@@ -1,5 +1,8 @@
 from torch import nn
-from torchvision.models.utils import load_state_dict_from_url
+try:
+    from torchvision.models.utils import load_state_dict_from_url
+except:
+    from torch.hub import load_state_dict_from_url
 
 model_urls = {
     'mobilenet_v2': 'https://download.pytorch.org/models/mobilenet_v2-b0353104.pth',
@@ -7,6 +10,13 @@ model_urls = {
 
 
 def _make_divisible(v, divisor, min_value=None):
+    '''
+    计算宽度缩放之后的channel数，需要保证能被divisor（默认为8）整除
+    :param v:
+    :param divisor:
+    :param min_value:
+    :return:
+    '''
     if min_value is None:
         min_value = divisor
     new_v = max(min_value, int(v + divisor / 2) // divisor * divisor)
@@ -34,11 +44,13 @@ class InvertedResidual(nn.Module):
 
         layers = []
         if expand_ratio != 1:
+            #先通过1*1卷积升维，维度扩充为输入的expand_ratio倍
             layers.append(ConvBNReLU(inp, hidden_dim, kernel_size=1))
             
         layers.extend([
+            #3*3深度卷积
             ConvBNReLU(hidden_dim, hidden_dim, stride=stride, groups=hidden_dim),
-
+            #1*1点卷积降维，输出原来的维度
             nn.Conv2d(hidden_dim, oup, 1, 1, 0, bias=False),
             nn.BatchNorm2d(oup), 
         ])
@@ -86,9 +98,15 @@ class MobileNetV2(nn.Module):
         input_channel = _make_divisible(input_channel * width_mult, round_nearest)
         self.last_channel = _make_divisible(last_channel * max(1.0, width_mult), round_nearest)
 
+        #mobilenetv2第一层
         # 416,416,3 -> 208,208,32
         features = [ConvBNReLU(3, input_channel, stride=2)]
 
+        #bottleneck模块
+        #t是维度倍增系数，也就是升维倍数
+        #c是输出层的channel个数
+        #n是每个bottleneck重复次数
+        #s是bottleneck的stride只有第一次出现新的bottleneck才置为该值，其余为1
         for t, c, n, s in inverted_residual_setting:
             output_channel = _make_divisible(c * width_mult, round_nearest)
             for i in range(n):
@@ -131,5 +149,34 @@ def mobilenet_v2(pretrained=False, progress=True):
 
     return model
 
+# if __name__ == "__main__":
+#     model=mobilenet_v2()
+#     print(model)
+
 if __name__ == "__main__":
-    print(mobilenet_v2())
+    import torch
+    from torchsummary import summary
+    from thop import clever_format, profile
+
+
+    input_shape=(416,416)
+
+    # 需要使用device来指定网络在GPU还是CPU运行
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    # device='cpu'
+    model = mobilenet_v2().to(device)
+    summary(model, input_size=(3, 416, 416))
+
+    dummy_input = torch.randn(1, 3, input_shape[0], input_shape[1]).to(device)
+    flops, params = profile(model.to(device), (dummy_input,), verbose=False)
+    # --------------------------------------------------------#
+    #   flops * 2是因为profile没有将卷积作为两个operations
+    #   有些论文将卷积算乘法、加法两个operations。此时乘2
+    #   有些论文只考虑乘法的运算次数，忽略加法。此时不乘2
+    #   本代码选择乘2，参考YOLOX。
+    # --------------------------------------------------------#
+    flops = flops * 2
+    flops, params = clever_format([flops, params], "%.3f")
+    print('Total GFLOPS: %s' % (flops))
+    print('Total params: %s' % (params))
+

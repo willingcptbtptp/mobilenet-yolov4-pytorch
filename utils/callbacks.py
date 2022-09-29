@@ -54,16 +54,24 @@ class LossHistory():
         iters = range(len(self.losses))
 
         plt.figure()
-        plt.plot(iters, self.losses, 'red', linewidth = 2, label='train loss')
-        plt.plot(iters, self.val_loss, 'coral', linewidth = 2, label='val loss')
+        #把之前的plt的y轴改成log坐标
+        # plt.plot(iters, self.losses, 'red', linewidth = 2, label='train loss')
+        # plt.plot(iters, self.val_loss, 'coral', linewidth = 2, label='val loss')
+        plt.semilogy(iters, self.losses, 'red', linewidth = 2, label='train loss')
+        plt.semilogy(iters, self.val_loss, 'coral', linewidth = 2, label='val loss')
         try:
             if len(self.losses) < 25:
                 num = 5
             else:
                 num = 15
             
-            plt.plot(iters, scipy.signal.savgol_filter(self.losses, num, 3), 'green', linestyle = '--', linewidth = 2, label='smooth train loss')
-            plt.plot(iters, scipy.signal.savgol_filter(self.val_loss, num, 3), '#8B4513', linestyle = '--', linewidth = 2, label='smooth val loss')
+            #把原来的plot的y轴改为log坐标
+            # plt.plot(iters, scipy.signal.savgol_filter(self.losses, num, 3), 'green', linestyle = '--', linewidth = 2, label='smooth train loss')
+            # plt.plot(iters, scipy.signal.savgol_filter(self.val_loss, num, 3), '#8B4513', linestyle = '--', linewidth = 2, label='smooth val loss')
+            plt.semilogy(iters, scipy.signal.savgol_filter(self.losses, num, 3), 'green', linestyle='--', linewidth=2,
+                     label='smooth train loss')
+            plt.semilogy(iters, scipy.signal.savgol_filter(self.val_loss, num, 3), '#8B4513', linestyle='--', linewidth=2,
+                     label='smooth val loss')
         except:
             pass
 
@@ -168,7 +176,7 @@ class EvalCallback():
         f.close()
         return 
     
-    def on_epoch_end(self, epoch, model_eval):
+    def on_epoch_end(self, epoch, model_eval,mAP_mode):
         if epoch % self.period == 0 and self.eval_flag:
             self.net = model_eval
             if not os.path.exists(self.map_out_path):
@@ -204,9 +212,9 @@ class EvalCallback():
                         new_f.write("%s %s %s %s %s\n" % (obj_name, left, top, right, bottom))
                         
             print("Calculate Map.")
-            try:
+            if mAP_mode=='cocomAP':
                 temp_map = get_coco_map(class_names = self.class_names, path = self.map_out_path)[1]
-            except:
+            else:
                 temp_map = get_map(self.MINOVERLAP, False, path = self.map_out_path)
             self.maps.append(temp_map)
             self.epoches.append(epoch)

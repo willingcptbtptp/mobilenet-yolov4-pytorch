@@ -169,6 +169,54 @@ img/street.jpg
 4. 在yolo.py里面修改model_path以及classes_path。**model_path指向训练好的权值文件，在logs文件夹里。classes_path指向检测类别所对应的txt。**  
 5. 运行get_map.py即可获得评估结果，评估结果会保存在map_out文件夹中。
 
+
+## 超参数
+模型相关的超参数分布在
+yolo.py
+
+ "model_path"        : 'logs/best_epoch_weights.pth',
+ "classes_path"      : 'model_data/voc_classes.txt',
+"classes_path": 'model_data/VOCfire_class.txt',
+"anchors_path"      : 'model_data/yolo_anchors.txt',
+"anchors_mask"      : [[6, 7, 8], [3, 4, 5], [0, 1, 2]],
+ "input_shape"       : [416, 416],
+"backbone"          : 'mobilenetv2',
+"confidence"        : 0.5,  #predict时候输出截断confidence 阈值，小于该值筛选掉
+"nms_iou"           : 0.3,
+该变量用于控制是否使用letterbox_image对输入图像进行不失真的resize，
+在多次测试后，发现关闭letterbox_image直接resize的效果更好
+"letterbox_image"   : False,
+"cuda"              : True,
+
+
+
+网络训练部分超参数
+nets\yolo_training.py
+
+self.balance        = [0.4, 1.0, 4] #三个输出层loss的权重，表示小特征层到大特征层的权重
+self.box_ratio      = 0.05
+self.obj_ratio      = 5 * (input_shape[0] * input_shape[1]) / (416 ** 2)
+self.cls_ratio      = 1 * (num_classes / 80)
+        
+self.focal_loss         = focal_loss
+self.focal_loss_ratio   = 10    #因为添加focal loss之后，该部分的loss总体会变低，我们添加一个放大倍数
+self.alpha              = alpha
+self.gamma              = gamma
+
+源代码中anchor ignore样本阈值，maxiou大于阈值为ignore
+self.ignore_threshold = 0.5
+
+当采用focal loss之后，计算目标confidence loss的时候，会对难分样本进行加强
+我们用大的ignorethresh会筛选出很多错误的难分负样本，从而导致网络ap降低
+因此当开启focal loss的时候，需要加大筛选力度，减少错误难分负样本个数
+if self.focal_loss:
+    self.ignore_threshold = 0.1
+self.cuda           = cuda
+
+
+##others
+nvidia-smi -l 5     #每5秒刷新一次gpu显存情况
+
 ## Reference
 https://github.com/qqwweee/keras-yolo3/  
 https://github.com/Cartucho/mAP  

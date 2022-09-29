@@ -9,8 +9,14 @@ from PIL import ImageDraw, ImageFont
 
 from nets.yolo import YoloBody
 from utils.utils import (cvtColor, get_anchors, get_classes, preprocess_input,
-                         resize_image, show_config)
+                         resize_image, show_config,show_config)
 from utils.utils_bbox import DecodeBox
+
+
+from warnings import simplefilter
+
+
+simplefilter("ignore", category=FutureWarning)
 
 '''
 训练自己的数据集必看注释！
@@ -25,35 +31,55 @@ class YOLO(object):
         #   验证集损失较低不代表mAP较高，仅代表该权值在验证集上泛化性能较好。
         #   如果出现shape不匹配，同时要注意训练时的model_path和classes_path参数的修改
         #--------------------------------------------------------------------------#
-        "model_path"        : 'model_data/yolov4_mobilenet_v1_voc.pth',
-        "classes_path"      : 'model_data/voc_classes.txt',
+        "model_path"        : 'logs/VOCfire_city_log20220918_2/ep220-loss0.041-val_loss0.024.pth',
+
+        # "classes_path"      : 'model_data/voc_classes.txt',
+        "classes_path": 'model_data/VOCfire_class.txt',
+
         #---------------------------------------------------------------------#
         #   anchors_path代表先验框对应的txt文件，一般不修改。
         #   anchors_mask用于帮助代码找到对应的先验框，一般不修改。
         #---------------------------------------------------------------------#
-        "anchors_path"      : 'model_data/yolo_anchors.txt',
+        "anchors_path"      : 'yolo_anchors.txt',
         "anchors_mask"      : [[6, 7, 8], [3, 4, 5], [0, 1, 2]],
+
         #---------------------------------------------------------------------#
         #   输入图片的大小，必须为32的倍数。
         #---------------------------------------------------------------------#
         "input_shape"       : [416, 416],
+
         #---------------------------------------------------------------------#
         #   检测网络所使用的主干
         #---------------------------------------------------------------------#
-        "backbone"          : 'mobilenetv1',
+        "backbone"          : 'mobilenetv2',
+
         #---------------------------------------------------------------------#
-        #   只有得分大于置信度的预测框会被保留下来
+        #   predict阶段截断阈值，只有得分大于置信度的预测框会被保留下来
+        #   该阈值实际上是在NMS中进行筛选的，网络的predict全部传到了NMS中
         #---------------------------------------------------------------------#
-        "confidence"        : 0.5,
+        # "confidence"        : 0.5,  #源代码中阈值，有点苛刻
+        "confidence": 0.4,      # predict阶段的这个阈值降低可以大幅度增加recall
+
         #---------------------------------------------------------------------#
         #   非极大抑制所用到的nms_iou大小
         #---------------------------------------------------------------------#
         "nms_iou"           : 0.3,
+
+        # ---------------------------------------------------------------------#
+        #   从NMS之后的predict中筛选出置信度最高的max_boxes个检测框（所有类别一起排序）
+        # ---------------------------------------------------------------------#
+        "max_boxes"         :100,
+
         #---------------------------------------------------------------------#
         #   该变量用于控制是否使用letterbox_image对输入图像进行不失真的resize，
-        #   在多次测试后，发现关闭letterbox_image直接resize的效果更好
+        #   在多次测试后，发现关闭letterbox_image直接resize的效果更好，
+        #   我试验之后发现，有的时候打开letterbox_image效果好，有的时候关闭letterbox效果好
+        #   打来letterbox_image是等比例缩放图片，理论上效果更接近于验证的原图
+        #   该变量在train阶段使用不到，在inference阶段，该变量用于resize输入图片以及NMS时把box复原到原始图片
         #---------------------------------------------------------------------#
-        "letterbox_image"   : False,
+        "letterbox_image"   : True,
+
+
         #-------------------------------#
         #   是否使用Cuda
         #   没有GPU可以设置成False
@@ -395,6 +421,12 @@ class YOLO(object):
             top_label   = np.array(results[0][:, 6], dtype = 'int32')
             top_conf    = results[0][:, 4] * results[0][:, 5]
             top_boxes   = results[0][:, :4]
+
+        #为了保证与callback.py中计算map保持一致，这里也选择前self.max_boxes个box
+        top_100     = np.argsort(top_conf)[::-1][:self.max_boxes]
+        top_boxes   = top_boxes[top_100]
+        top_conf    = top_conf[top_100]
+        top_label   = top_label[top_100]
 
         for i, c in list(enumerate(top_label)):
             predicted_class = self.class_names[int(c)]

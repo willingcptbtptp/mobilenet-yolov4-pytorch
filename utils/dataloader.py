@@ -60,6 +60,7 @@ class YoloDataset(Dataset):
             box[:, 0:2] = box[:, 0:2] + box[:, 2:4] / 2
         return image, box
 
+    #产生[a, b)之间的随机数
     def rand(self, a=0, b=1):
         return np.random.rand()*(b-a) + a
 
@@ -80,8 +81,11 @@ class YoloDataset(Dataset):
         #------------------------------#
         box     = np.array([np.array(list(map(int,box.split(',')))) for box in line[1:]])
 
+        #train的时候random是True
+        #val的时候random是False
+        #等比例缩放，把长边缩放到416，短边填充128像素值
         if not random:
-            scale = min(w/iw, h/ih)
+            scale = min(w/iw, h/ih)     #长边的缩放比
             nw = int(iw*scale)
             nh = int(ih*scale)
             dx = (w-nw)//2

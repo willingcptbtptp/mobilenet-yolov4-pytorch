@@ -4,6 +4,7 @@ from functools import partial
 import numpy as np
 import torch
 import torch.nn as nn
+from utils.utils import show_config
 
 
 class YOLOLoss(nn.Module):
@@ -21,18 +22,35 @@ class YOLOLoss(nn.Module):
         self.anchors_mask   = anchors_mask
         self.label_smoothing = label_smoothing
 
-        self.balance        = [0.4, 1.0, 4]
+        #因为每一层的loss都是根据obj_mask、noobj_mask求过平均的
+        #这样一目标的多或者少并不影响当前层的loss
+        #因此需要根据每个YOLO层的大小给loss赋予不同权重
+        #大特征YOLO层需要检测更多目标，因此赋予大权重loss
+        self.balance        = [0.4, 1.0, 4] #三个输出层loss的权重，表示小特征层到大特征层的权重
         self.box_ratio      = 0.05
         self.obj_ratio      = 5 * (input_shape[0] * input_shape[1]) / (416 ** 2)
         self.cls_ratio      = 1 * (num_classes / 80)
         
         self.focal_loss         = focal_loss
-        self.focal_loss_ratio   = 10
+        self.focal_loss_ratio   = 10    #因为添加focal loss之后，该部分的loss总体会变低，我们添加一个放大倍数
         self.alpha              = alpha
         self.gamma              = gamma
 
+        #源代码中anchor ignore样本阈值，maxiou大于阈值为ignore
         self.ignore_threshold = 0.5
+        #当采用focal loss之后，计算目标confidence loss的时候，会对难分样本进行加强
+        #我们用大的ignorethresh会筛选出很多错误的难分负样本，从而导致网络ap降低
+        #因此当开启focal loss的时候，需要加大筛选力度，减少错误难分负样本个数
+        if self.focal_loss:
+            self.ignore_threshold = 0.1
+
         self.cuda           = cuda
+
+        print('Init YOLOLoss')
+        show_config(anchors_mask=anchors_mask,label_smoothing=label_smoothing,\
+                    balance=self.balance,box_ratio=self.box_ratio,obj_ratio=self.obj_ratio,cls_ratio=self.cls_ratio,\
+                    focal_loss=focal_loss,focal_loss_ratio=self.focal_loss_ratio,alpha=alpha,gamma=gamma,\
+                    ignore_threshold=self.ignore_threshold,cuda=cuda)
 
     def clip_by_tensor(self, t, t_min, t_max):
         t = t.float()
@@ -209,6 +227,7 @@ class YOLOLoss(nn.Module):
             #---------------------------------------------------------------#
             ciou        = self.box_ciou(pred_boxes, y_true[..., :4]).type_as(x)
             # loss_loc    = torch.mean((1 - ciou)[obj_mask] * box_loss_scale[obj_mask])
+            #计算的loss都是除以mask求得均值，可以认为得到的loss是每一张图片上的loss，batch_size被平均掉了
             loss_loc    = torch.mean((1 - ciou)[obj_mask])
             
             loss_cls    = torch.mean(self.BCELoss(pred_cls[obj_mask], y_true[..., 5:][obj_mask]))

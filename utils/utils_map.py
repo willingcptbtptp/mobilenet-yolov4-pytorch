@@ -12,7 +12,7 @@ except:
     pass
 import cv2
 import matplotlib
-matplotlib.use('Agg')
+# matplotlib.use('Agg')     #这一行代码会导致无限循环，超出递归深度，因此去掉。
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -569,6 +569,8 @@ def get_map(MINOVERLAP, draw_plot, score_threhold=0.5, path = './map_out'):
             for idx, val in enumerate(tp):
                 prec[idx] = float(tp[idx]) / np.maximum((fp[idx] + tp[idx]), 1)
 
+            #计算一个类别的ap（PR曲线下的面积），mrec和 mprec表示thresh不同时候PR值
+            # 也就是PR曲线上每一点的坐标对
             ap, mrec, mprec = voc_ap(rec[:], prec[:])
             F1  = np.array(rec)*np.array(prec)*2 / np.where((np.array(prec)+np.array(rec))==0, 1, (np.array(prec)+np.array(rec)))
 

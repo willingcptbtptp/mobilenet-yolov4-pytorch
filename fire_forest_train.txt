@@ -1,0 +1,736 @@
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_1.jpg 1,133,70,193,0 83,120,169,169,0 172,64,238,173,0 251,32,459,162,0 467,71,858,154,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_10.jpg 2,213,450,300,0 344,275,443,336,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_100.jpg 108,1,331,246,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_101.jpg 340,128,518,265,0 248,269,384,390,0 1,343,22,382,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_102.jpg 124,59,145,75,0 186,219,310,295,0 384,161,459,264,0 473,87,530,189,0 4,264,24,294,0 47,243,59,257,0 61,204,72,213,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_103.jpg 555,516,929,589,0 335,1,803,529,0 283,464,320,486,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_104.jpg 323,120,500,279,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_105.jpg 1,587,182,640,0 324,609,801,1348,0 993,605,1113,768,0 806,377,1167,500,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_107.jpg 7,2,626,432,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_108.jpg 1,88,142,354,0 159,294,240,357,0 147,1,570,369,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_109.jpg 5,4,282,582,0 372,49,805,556,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_11.jpg 5,117,158,213,0 165,171,403,237,0 537,142,646,200,0 408,205,654,289,0 704,181,1019,319,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_110.jpg 11,193,31,217,0 58,188,104,209,0 130,181,168,202,0 181,176,262,201,0 270,167,350,211,0 369,199,384,213,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_112.jpg 168,128,600,226,0 155,229,369,292,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_113.jpg 1,130,57,186,0 69,136,95,186,0 104,144,146,188,0 152,120,288,187,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_114.jpg 745,225,903,382,0 1,250,621,633,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_115.jpg 233,270,743,677,0 891,562,936,610,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_116.jpg 45,36,102,154,0 194,52,392,304,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_117.jpg 116,26,465,276,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_118.jpg 151,41,315,87,0 276,124,312,175,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_119.jpg 7,66,303,580,0 566,301,791,532,0 309,423,844,701,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_120.jpg 527,203,988,400,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_122.jpg 1,83,107,146,0 113,48,163,75,0 214,17,253,42,0 359,40,390,63,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_123.jpg 481,311,518,350,0 515,336,604,392,0 695,410,747,458,0 512,406,557,454,0 559,99,596,315,0 349,72,415,178,0 369,282,390,352,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_124.jpg 865,451,910,498,0 457,217,542,278,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_127.jpg 106,42,376,223,0 1,191,91,222,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_13.jpg 50,222,138,402,0 152,182,205,282,0 239,268,287,408,0 345,186,584,411,0 468,14,570,122,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_132.jpg 1,474,481,604,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_134.jpg 1,1,295,322,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_135.jpg 1002,1236,1160,1361,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_136.jpg 3,1,996,601,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_137.jpg 1829,835,2315,1487,0 2473,1751,2907,2007,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_139.jpg 164,18,399,303,0 410,288,467,315,0 493,183,513,230,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_14.jpg 174,317,244,374,0 346,300,451,373,0 313,384,460,430,0 524,284,725,356,0 771,265,966,331,0 995,281,1090,320,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_140.jpg 118,197,555,397,0 5,226,123,248,0 2,253,53,274,0 9,280,121,387,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_141.jpg 12,131,105,296,0 235,18,438,616,0 10,404,222,640,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_142.jpg 42,324,276,440,0 336,370,617,428,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_144.jpg 257,2,440,189,0 118,93,175,177,0 362,215,390,250,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_145.jpg 492,236,652,415,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_146.jpg 135,267,161,307,0 3,80,85,152,0 100,1,363,184,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_147.jpg 242,137,498,391,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_148.jpg 1,4,196,334,0 269,4,610,321,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_149.jpg 196,202,471,339,0 482,220,631,336,0 435,1,531,90,0 9,40,58,90,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_15.jpg 372,262,428,330,0 410,182,525,330,0 65,207,371,323,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_150.jpg 91,254,196,313,0 246,147,346,235,0 427,74,489,122,0 547,152,588,196,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_151.jpg 271,134,483,420,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_152.jpg 273,538,383,639,0 342,497,386,531,0 702,305,835,431,0 828,28,1024,318,0 656,84,687,136,0 442,336,483,388,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_153.jpg 1,308,571,641,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_154.jpg 218,226,387,296,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_156.jpg 351,72,677,458,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_158.jpg 808,1,1536,700,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_159.jpg 1,176,582,390,0 562,238,650,390,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_16.jpg 645,364,974,577,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_160.jpg 51,34,467,298,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_161.jpg 347,158,636,379,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_163.jpg 172,194,455,432,0 471,278,549,375,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_166.jpg 2,214,50,263,0 96,78,428,267,0 455,119,604,195,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_167.jpg 1,63,362,261,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_168.jpg 140,96,341,283,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_17.jpg 13,45,624,332,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_170.jpg 1,98,69,173,0 449,29,548,160,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_171.jpg 149,140,325,249,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_172.jpg 75,1,388,172,0 1,61,47,130,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_173.jpg 8,55,1200,520,0 412,563,521,689,0 1,525,204,609,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_174.jpg 27,36,285,214,0 300,44,502,207,0 559,39,600,85,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_175.jpg 342,30,486,265,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_176.jpg 196,118,333,259,0 356,96,453,266,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_178.jpg 93,7,638,427,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_180.jpg 263,6,350,222,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_181.jpg 341,62,575,370,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_182.jpg 1,335,157,450,0 269,17,878,450,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_183.jpg 284,186,365,315,0 212,189,271,251,0 222,294,276,315,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_184.jpg 147,167,607,273,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_185.jpg 508,234,602,465,0 413,287,441,360,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_186.jpg 359,178,416,386,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_187.jpg 11,542,660,816,0 801,503,1416,749,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_188.jpg 1,55,118,199,0 132,2,468,191,0 496,221,541,271,0 263,187,311,223,0 1,187,131,283,0 126,263,232,335,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_189.jpg 169,84,828,273,0 160,348,799,513,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_19.jpg 672,60,1094,586,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_190.jpg 129,5,166,40,0 140,23,243,158,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_191.jpg 447,258,618,431,0 663,374,754,530,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_192.jpg 317,112,493,227,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_193.jpg 175,102,221,123,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_194.jpg 1,1,397,205,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_196.jpg 356,136,508,265,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_197.jpg 194,4,366,268,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_199.jpg 59,10,281,248,0 478,107,600,306,0 326,71,477,173,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_20.jpg 46,217,150,339,0 185,236,251,340,0 480,203,546,314,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_200.jpg 123,393,234,472,0 492,432,646,472,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_201.jpg 211,31,362,355,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_202.jpg 346,191,450,238,0 156,197,238,237,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_203.jpg 1,3,637,360,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_204.jpg 1066,437,2569,1976,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_205.jpg 1,40,378,280,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_206.jpg 206,219,375,482,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_207.jpg 28,113,417,320,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_208.jpg 100,169,238,338,0 354,2,579,251,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_209.jpg 332,248,447,322,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_21.jpg 298,212,486,363,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_210.jpg 663,107,696,158,0 642,36,673,81,0 387,68,402,89,0 606,344,627,364,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_214.jpg 256,52,343,267,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_215.jpg 29,1,495,314,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_218.jpg 21,26,322,301,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_22.jpg 241,1,715,295,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_220.jpg 224,3,602,528,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_221.jpg 261,1,372,279,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_222.jpg 170,325,229,355,0 103,6,739,351,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_223.jpg 239,29,443,310,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_226.jpg 91,172,241,334,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_228.jpg 273,290,685,449,0 697,183,1000,461,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_229.jpg 100,494,309,661,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_23.jpg 1,111,104,280,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_230.jpg 44,207,80,250,0 97,85,126,118,0 153,77,193,106,0 201,43,265,96,0 336,8,474,46,0 487,4,543,31,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_232.jpg 301,131,443,292,0 711,269,1100,524,0 336,316,574,448,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_233.jpg 492,204,541,242,0 288,51,425,159,0 1,105,192,159,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_235.jpg 133,113,204,208,0 129,1,514,61,0 555,113,645,170,0 275,111,350,274,0 529,1,658,44,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_236.jpg 1,1,292,106,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_237.jpg 1,180,71,267,0 261,123,632,337,0 406,349,466,436,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_238.jpg 21,28,368,253,0 407,113,700,296,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_239.jpg 7,7,613,462,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_24.jpg 14,85,138,240,0 155,219,191,238,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_240.jpg 290,274,415,351,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_241.jpg 230,1,514,366,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_242.jpg 122,75,165,89,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_243.jpg 185,298,240,329,0 642,345,674,371,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_244.jpg 309,137,424,191,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_246.jpg 175,120,383,337,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_247.jpg 90,123,166,226,0 105,347,127,381,0 153,352,235,387,0 270,283,318,328,0 345,284,399,330,0 460,215,561,315,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_248.jpg 67,165,124,221,0 274,181,300,223,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_249.jpg 353,150,471,291,0 560,177,598,275,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_25.jpg 1,131,336,396,0 365,277,528,351,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_252.jpg 66,37,584,256,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_253.jpg 23,17,595,431,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_254.jpg 156,91,263,169,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_255.jpg 344,151,581,278,0 45,200,291,291,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_256.jpg 253,1,615,270,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_259.jpg 4,18,60,65,0 85,45,162,87,0 157,60,210,82,0 195,9,293,70,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_26.jpg 7,296,55,325,0 79,229,239,336,0 439,126,780,336,0 350,246,380,315,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_261.jpg 1,1,1191,548,0 836,677,896,705,0 791,763,852,789,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_262.jpg 114,51,610,246,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_263.jpg 1,241,181,420,0 439,195,590,298,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_264.jpg 1,159,112,222,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_265.jpg 75,373,108,405,0 10,313,199,402,0 303,193,458,316,0 205,314,224,332,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_266.jpg 206,80,322,309,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_267.jpg 161,51,335,180,0 496,10,600,49,0 95,154,126,190,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_268.jpg 509,436,551,474,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_269.jpg 296,233,2235,1328,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_27.jpg 101,7,674,213,0 102,242,165,305,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_270.jpg 217,160,325,265,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_271.jpg 231,155,428,297,0 35,191,99,217,0 148,246,206,281,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_272.jpg 248,221,405,297,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_273.jpg 1661,1192,1732,1259,0 2257,1238,2288,1273,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_274.jpg 72,245,200,328,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_275.jpg 1,51,110,174,0 128,21,187,175,0 188,29,262,176,0 263,45,394,177,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_276.jpg 199,28,450,253,0 61,36,243,227,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_277.jpg 134,274,206,311,0 4,220,99,258,0 150,185,220,235,0 297,178,659,252,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_278.jpg 1,1,397,222,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_279.jpg 1,257,332,559,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_28.jpg 450,549,588,602,0 668,589,756,633,0 729,419,889,504,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_280.jpg 408,135,611,295,0 532,25,910,324,0 902,58,1540,358,0 1601,289,1680,367,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_281.jpg 263,233,319,292,0 473,79,682,210,0 568,201,620,253,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_282.jpg 153,166,191,219,0 230,122,268,208,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_283.jpg 1158,1237,1497,1426,0 1769,1329,1888,1411,0 1930,1105,2406,1413,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_284.jpg 296,217,441,397,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_285.jpg 144,615,324,701,0 345,545,576,645,0 964,483,1069,506,0 1109,453,1236,516,0 583,498,743,556,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_286.jpg 271,104,509,216,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_287.jpg 332,357,547,450,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_288.jpg 331,199,345,221,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_289.jpg 1,1,584,417,0 624,2,752,372,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_290.jpg 17,6,593,366,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_292.jpg 361,157,963,453,0 1048,155,1280,462,0 12,332,277,460,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_295.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_296.jpg 99,193,412,387,0 9,161,126,276,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_297.jpg 107,290,206,331,0 400,316,465,347,0 507,220,633,344,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_298.jpg 73,173,120,196,0 1,148,57,180,0 259,180,298,201,0 307,185,333,201,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_299.jpg 42,136,77,160,0 87,2,293,162,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_30.jpg 230,81,411,394,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_300.jpg 2,1,446,572,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_301.jpg 370,181,448,274,0 459,79,512,195,0 187,233,332,308,0 118,69,138,93,0 102,300,197,338,0 2,276,25,296,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_302.jpg 437,267,464,288,0 450,212,485,260,0 295,165,358,221,0 172,292,264,345,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_303.jpg 30,245,473,338,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_305.jpg 611,103,1753,1039,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_306.jpg 1,1,303,301,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_307.jpg 445,9,943,187,0 91,133,152,171,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_308.jpg 79,378,126,407,0 238,278,305,385,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_309.jpg 52,111,152,216,0 140,5,157,117,0 188,90,531,226,0 339,282,428,312,0 483,267,527,289,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_31.jpg 230,177,532,356,0 18,348,763,569,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_310.jpg 213,249,256,281,0 1,1,192,287,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_311.jpg 748,224,792,365,0 660,325,712,406,0 571,218,657,385,0 340,139,579,320,0 132,154,157,214,0 10,188,27,218,0 90,378,114,411,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_312.jpg 369,238,414,257,0 200,238,295,285,0 161,237,184,263,0 5,167,133,249,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_313.jpg 688,286,779,330,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_314.jpg 289,203,726,418,0 1,352,284,420,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_315.jpg 281,170,388,272,0 435,141,651,200,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_316.jpg 913,117,1711,875,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_319.jpg 49,76,627,477,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_32.jpg 77,109,127,187,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_320.jpg 321,302,338,321,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_321.jpg 304,283,525,363,0 526,227,983,489,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_323.jpg 527,891,710,1010,0 220,739,249,854,0 950,459,1267,639,0 509,351,602,422,0 71,274,402,476,0 669,758,728,792,0 1190,817,1236,900,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_324.jpg 1,1,747,468,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_326.jpg 1,1,500,334,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_327.jpg 159,72,375,144,0 1,120,17,134,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_328.jpg 1059,151,2332,1196,0 2819,1349,3016,1580,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_33.jpg 4,8,354,311,0 343,238,479,280,0 348,88,414,134,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_330.jpg 71,230,116,262,0 137,7,480,284,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_331.jpg 785,467,898,526,0 1,65,989,554,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_332.jpg 3,398,135,443,0 205,268,669,432,0 39,352,188,412,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_333.jpg 1,1,718,403,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_335.jpg 28,107,160,708,0 358,316,462,462,0 725,620,888,720,0 988,428,1120,688,0 562,294,618,343,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_336.jpg 14,290,77,328,0 8,220,162,276,0 165,230,338,367,0 1,34,239,195,0 309,51,436,228,0 461,137,660,315,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_34.jpg 928,2394,5152,3257,0 4019,2190,4924,2453,0 536,2336,799,2665,0 1286,2078,1619,2557,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_340.jpg 176,179,514,315,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_343.jpg 1,1,617,381,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_344.jpg 8,23,2039,1124,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_345.jpg 601,275,716,395,0 505,281,539,322,0 364,185,478,305,0 286,181,337,255,0 258,216,280,245,0 158,126,223,188,0 1,112,72,145,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_347.jpg 26,474,143,589,0 359,11,890,632,0 937,369,1167,660,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_348.jpg 26,119,1011,527,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_349.jpg 238,1453,997,1839,0 1327,1548,1622,1653,0 1616,1599,1778,1712,0 2108,1788,2649,2020,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_350.jpg 215,378,353,502,0 110,539,149,587,0 322,323,678,461,0 740,296,795,343,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_351.jpg 1,1,806,403,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_352.jpg 3,1,976,468,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_353.jpg 131,78,333,378,0 431,50,623,131,0 376,167,600,376,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_354.jpg 222,127,313,166,0 317,65,502,175,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_356.jpg 12,638,100,666,0 204,634,246,657,0 557,550,644,586,0 806,551,870,609,0 912,540,949,572,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_357.jpg 2136,49,3064,840,0 1017,759,2571,2112,0 305,1193,977,2196,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_359.jpg 701,591,762,632,0 169,464,304,557,0 996,487,1328,748,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_36.jpg 36,262,104,344,0 103,372,175,409,0 225,371,397,419,0 503,355,549,400,0 560,345,700,384,0 450,389,471,402,0 421,397,438,412,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_361.jpg 1,788,255,1034,0 324,314,1562,1217,0 1739,569,1920,1058,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_362.jpg 250,170,810,424,0 1,2,145,94,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_363.jpg 419,306,475,355,0 183,193,320,340,0 342,188,429,237,0 507,175,591,253,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_364.jpg 1,1,292,323,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_366.jpg 1,1,210,351,0 310,1,648,341,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_367.jpg 38,225,198,373,0 198,188,316,326,0 336,262,381,291,0 565,253,650,330,0 489,143,650,278,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_37.jpg 467,189,974,500,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_370.jpg 307,304,382,378,0 626,92,699,181,0 417,207,585,288,0 454,98,495,147,0 282,120,363,170,0 193,297,241,342,0 1,192,30,255,0 178,5,214,36,0 180,208,209,237,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_374.jpg 219,1,647,292,0 9,10,118,64,0 1,231,38,291,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_375.jpg 10,338,701,478,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_376.jpg 129,190,466,301,0 465,225,587,285,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_377.jpg 4,211,805,478,0 809,290,962,480,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_379.jpg 25,463,1012,820,0 1018,630,1193,787,0 1357,449,1419,522,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_38.jpg 257,1,518,323,0 570,8,779,356,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_382.jpg 134,52,519,290,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_383.jpg 16,327,132,380,0 17,369,223,543,0 217,360,985,491,0 355,69,954,255,0 1,142,326,281,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_386.jpg 192,414,240,460,0 341,352,359,371,0 378,379,400,400,0 409,312,606,369,0 440,101,463,177,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_39.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_390.jpg 367,205,499,289,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_391.jpg 104,2,376,147,0 3,14,729,369,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_393.jpg 1,349,5155,4480,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_394.jpg 5,7,121,104,0 129,42,750,365,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_395.jpg 200,5,446,405,0 675,205,704,236,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_396.jpg 49,44,343,291,0 1,255,46,295,0 615,290,645,307,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_397.jpg 13,364,598,656,0 636,163,1163,529,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_398.jpg 317,125,461,271,0 92,288,402,427,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_4.jpg 153,167,999,616,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_40.jpg 77,58,118,86,0 76,122,156,222,0 6,208,41,240,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_401.jpg 266,363,369,415,0 1,1,677,408,0 697,260,750,334,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_402.jpg 2050,857,3495,1629,0 1,1204,1915,1629,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_403.jpg 1,62,803,601,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_404.jpg 1162,500,1707,863,0 1782,255,2640,933,0 2695,160,3600,755,0 25,263,747,718,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_405.jpg 916,508,4388,1480,0 84,1312,508,1660,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_406.jpg 287,178,536,411,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_407.jpg 362,1,736,378,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_409.jpg 188,55,996,533,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_41.jpg 127,181,167,205,0 190,150,249,186,0 248,171,287,199,0 386,133,398,145,0 298,144,350,179,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_410.jpg 169,98,308,198,0 349,135,415,190,0 430,133,479,172,0 502,147,647,209,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_411.jpg 2,172,762,480,0 403,7,524,48,0 304,9,381,157,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_412.jpg 553,537,622,584,0 783,372,836,412,0 840,554,888,590,0 632,347,649,384,0 618,320,645,332,0 489,340,501,395,0 234,440,256,458,0 271,361,314,394,0 415,332,472,402,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_415.jpg 358,268,1185,616,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_417.jpg 54,117,771,520,0 745,551,903,592,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_418.jpg 598,514,1920,902,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_419.jpg 137,327,793,906,0 885,37,2400,1129,0 385,1286,598,1384,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_42.jpg 104,14,333,131,0 2,146,95,210,0 464,60,674,219,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_420.jpg 32,815,2926,1415,0 1609,506,2023,1069,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_422.jpg 59,50,365,295,0 486,99,648,232,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_423.jpg 9,211,885,512,0 1012,211,1072,241,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_425.jpg 53,195,269,483,0 569,401,720,483,0 310,171,431,260,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_426.jpg 128,305,1000,562,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_428.jpg 211,238,1365,921,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_43.jpg 418,33,457,109,0 367,128,419,282,0 383,224,441,341,0 340,343,395,438,0 353,393,420,626,0 471,356,532,498,0 318,535,333,594,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_432.jpg 87,201,149,287,0 393,50,409,288,0 210,125,492,404,0 525,312,579,352,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_433.jpg 4,178,799,584,0 270,67,410,383,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_435.jpg 139,218,523,344,0 779,409,1052,556,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_437.jpg 1,185,1349,385,0 451,409,566,452,0 725,433,800,486,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_439.jpg 1,78,119,174,0 210,20,780,437,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_44.jpg 54,135,291,282,0 367,274,599,419,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_441.jpg 19,182,1081,2216,0 1128,147,3887,2544,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_443.jpg 414,229,480,291,0 608,230,636,255,0 82,322,127,369,0 136,312,216,378,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_444.jpg 1,520,1984,1237,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_449.jpg 329,376,485,456,0 649,327,847,404,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_45.jpg 240,93,330,122,0 265,265,323,292,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_459.jpg 309,1,726,1072,0 828,8,1817,1047,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_46.jpg 3,313,96,362,0 156,327,191,366,0 203,344,237,379,0 253,351,284,382,0 287,328,394,377,0 436,343,480,387,0 723,380,784,414,0 811,361,847,397,0 487,171,569,223,0 665,174,703,208,0 746,192,773,224,0 586,365,624,390,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_460.jpg 585,395,842,476,0 391,415,490,455,0 1,388,183,441,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_461.jpg 1,193,939,404,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_462.jpg 1035,1315,1208,1508,0 1366,1366,1470,1492,0 932,414,2475,1295,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_464.jpg 1,1,713,865,0 918,31,1600,879,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_466.jpg 292,240,431,371,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_467.jpg 211,233,251,346,0 64,290,104,351,0 334,238,519,423,0 546,205,894,421,0 339,503,507,676,0 542,505,876,697,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_468.jpg 925,373,1582,726,0 576,354,821,650,0 243,422,424,562,0 1608,39,1756,151,0 104,586,319,641,0 818,246,1082,323,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_47.jpg 132,174,313,256,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_470.jpg 145,237,563,501,0 191,492,285,563,0 415,488,870,609,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_474.jpg 432,169,570,306,0 318,232,353,264,0 186,153,403,227,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_475.jpg 300,104,406,158,0 458,121,583,166,0 9,30,114,86,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_476.jpg 163,430,603,665,0 750,542,910,659,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_478.jpg 452,164,577,248,0 217,75,427,163,0 919,40,979,103,0 637,92,772,168,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_479.jpg 1,1318,3720,3411,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_482.jpg 20,398,71,432,0 237,335,285,382,0 290,364,310,385,0 391,327,460,366,0 746,345,874,447,0 932,455,1004,486,0 548,321,604,362,0 559,278,606,313,0 492,313,534,349,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_483.jpg 322,1,955,413,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_484.jpg 393,40,781,390,0 176,61,468,352,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_486.jpg 344,81,688,778,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_487.jpg 1,365,183,415,0 5,95,634,328,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_488.jpg 3507,2107,4189,2949,0 2810,2792,3174,3092,0 3189,2917,3282,3028,0 1807,3092,2346,3264,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_49.jpg 110,331,379,431,0 345,452,615,497,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_492.jpg 159,17,352,317,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_493.jpg 788,1145,895,1232,0 916,1145,982,1234,0 1016,1171,1082,1221,0 1949,982,2047,1049,0 2810,664,2932,710,0 449,1169,512,1208,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_495.jpg 326,415,1590,1780,0 3090,927,3584,1389,0 2481,930,2714,1157,0 1996,954,2305,1174,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_496.jpg 251,549,796,675,0 1,301,897,516,0 300,140,347,305,0 1,619,116,675,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_497.jpg 50,33,706,391,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_498.jpg 2,99,426,286,0 138,77,160,102,0 412,53,434,83,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_499.jpg 23,98,351,216,0 417,172,650,245,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_5.jpg 143,127,376,217,0 491,251,522,300,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_50.jpg 631,18,1663,447,0 1727,27,1919,170,0 445,377,1211,943,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_501.jpg 213,506,1140,632,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_502.jpg 152,20,923,529,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_503.jpg 3,275,86,312,0 144,305,210,340,0 217,327,237,341,0 259,292,321,325,0 226,222,295,299,0 313,10,759,264,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_504.jpg 162,150,647,532,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_505.jpg 30,323,297,434,0 486,258,513,279,0 619,220,663,241,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_506.jpg 225,98,359,723,0 425,557,515,717,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_509.jpg 318,412,358,449,0 406,336,497,427,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_51.jpg 753,352,849,443,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_511.jpg 1044,175,1094,211,0 507,449,663,482,0 793,296,838,317,0 1058,296,1096,319,0 906,79,1099,162,0 615,260,662,294,0 15,98,289,398,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_514.jpg 122,3,188,305,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_515.jpg 21,29,449,591,0 900,113,1159,326,0 1265,117,1397,341,0 980,434,1077,477,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_516.jpg 2,42,396,223,0 193,1,268,177,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_517.jpg 1,791,633,1436,0 639,8,1908,1428,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_518.jpg 69,188,192,280,0 342,55,482,241,0 491,174,598,236,0 194,240,339,270,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_519.jpg 304,569,424,625,0 732,95,777,140,0 823,512,931,698,0 1142,703,1197,728,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_520.jpg 406,30,601,641,0 421,1,477,28,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_523.jpg 328,558,560,609,0 599,502,755,564,0 158,490,223,547,0 283,374,392,484,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_524.jpg 288,39,668,619,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_525.jpg 118,466,439,591,0 451,403,510,458,0 462,477,941,575,0 574,376,683,487,0 534,387,561,421,0 680,174,720,304,0 380,425,447,455,0 321,430,349,455,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_526.jpg 695,1853,958,2050,0 1003,261,2421,1534,0 1116,1458,2432,2074,0 2537,1513,2976,1882,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_528.jpg 122,5,785,473,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_53.jpg 278,643,643,1237,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_530.jpg 1,34,606,425,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_532.jpg 1,623,190,739,0 356,626,423,703,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_534.jpg 43,153,568,360,0 1,257,25,305,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_535.jpg 327,3,866,426,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_536.jpg 68,78,180,448,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_538.jpg 10,71,2573,1794,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_539.jpg 1,213,111,279,0 378,46,484,106,0 125,326,359,531,0 541,374,578,414,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_543.jpg 50,417,119,477,0 437,352,545,479,0 677,339,931,465,0 581,414,649,476,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_544.jpg 859,969,1015,1096,0 1392,1096,1436,1160,0 1391,852,1437,881,0 1619,747,1751,804,0 167,971,230,1030,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_545.jpg 81,98,161,173,0 100,184,326,361,0 443,232,555,358,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_547.jpg 273,1,1016,526,0 1,332,66,414,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_548.jpg 28,54,620,517,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_549.jpg 1,8,2560,1247,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_550.jpg 103,1,744,982,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_552.jpg 221,2,302,127,0 1,161,448,336,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_554.jpg 440,511,470,543,0 794,334,852,386,0 733,396,759,414,0 682,247,701,345,0 389,181,396,215,0 562,464,579,488,0 506,473,526,505,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_556.jpg 1,864,1062,2629,0 717,139,3532,3439,0 1132,2189,6127,4608,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_557.jpg 32,314,224,371,0 412,336,633,377,0 262,327,370,376,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_558.jpg 1031,219,3202,2551,0 483,2219,938,2513,0 28,2197,493,2464,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_560.jpg 1,185,63,248,0 167,81,248,196,0 238,2,400,227,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_561.jpg 153,9,618,540,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_563.jpg 370,113,681,382,0 125,233,187,300,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_564.jpg 184,1304,1916,2512,0 1620,2460,2296,2700,0 2620,2480,3492,2832,0 4604,2956,5072,3044,0 2048,3064,2408,3356,0 1244,2756,1364,2880,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_565.jpg 3488,1134,4948,3298,0 2424,2402,3195,3041,0 1909,1666,3299,2170,0 1,1416,1559,2941,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_566.jpg 139,409,213,451,0 219,230,361,447,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_569.jpg 1,305,215,439,0 46,4,755,431,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_57.jpg 71,638,135,683,0 1,643,37,676,0 87,539,261,681,0 305,575,515,696,0 110,424,245,557,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_571.jpg 1,59,1178,733,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_574.jpg 1051,81,3334,2884,0 3731,2191,4378,2604,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_575.jpg 1,34,600,389,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_579.jpg 206,274,226,297,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_583.jpg 2,92,593,415,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_584.jpg 1,479,95,625,0 195,3,1200,720,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_585.jpg 1,2,988,411,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_586.jpg 41,317,140,360,0 163,332,230,360,0 423,232,640,353,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_588.jpg 121,330,452,437,0 483,74,855,415,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_589.jpg 1,156,396,270,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_59.jpg 243,9,526,336,0 545,1,702,362,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_591.jpg 200,467,266,525,0 441,606,534,672,0 557,465,677,554,0 665,569,704,656,0 865,456,922,492,0 867,511,917,559,0 968,523,1038,558,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_592.jpg 126,354,406,787,0 981,691,1105,787,0 437,244,721,432,0 1058,526,1242,636,0 8,297,54,341,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_593.jpg 234,159,418,249,0 524,265,694,339,0 850,339,961,388,0 210,111,238,149,0 97,80,137,96,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_594.jpg 1,1,152,127,0 121,1,187,29,0 1,184,292,349,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_596.jpg 593,1,2411,1349,0 2657,995,2817,1122,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_597.jpg 4,246,996,550,0 1056,222,1280,520,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_598.jpg 1,822,200,977,0 308,801,664,997,0 773,817,1314,1056,0 1710,932,1900,1003,0 1562,710,1900,962,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_599.jpg 85,90,991,544,0 266,569,396,624,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_60.jpg 11,231,292,457,0 299,2,1113,767,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_600.jpg 204,113,492,353,0 571,107,862,179,0 963,56,1051,146,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_601.jpg 129,39,227,87,0 169,62,574,276,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_602.jpg 1,409,365,622,0 340,615,462,681,0 427,1,924,474,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_604.jpg 473,24,643,217,0 170,46,451,256,0 41,1,150,42,0 26,216,114,278,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_605.jpg 1,883,194,953,0 322,749,1761,873,0 1684,475,1734,558,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_607.jpg 704,6,4704,3317,0 4073,2894,4669,3275,0 2708,3013,3446,3283,0 4766,36,5066,1271,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_608.jpg 1,1,742,707,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_61.jpg 104,209,184,263,0 210,219,438,266,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_610.jpg 92,171,197,230,0 109,83,133,109,0 48,129,83,152,0 51,196,70,209,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_611.jpg 4,201,33,236,0 81,218,111,239,0 113,214,152,227,0 253,197,291,218,0 385,192,498,237,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_612.jpg 1,554,1900,980,0 1753,459,1900,513,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_613.jpg 232,319,267,374,0 445,342,504,375,0 519,362,562,391,0 348,359,372,379,0 405,355,438,371,0 355,339,368,356,0 272,353,314,378,0 53,298,135,333,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_614.jpg 151,1,620,328,0 106,258,178,285,0 26,1,85,53,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_616.jpg 359,259,401,286,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_617.jpg 509,530,558,565,0 1168,557,1269,585,0 1356,522,1421,576,0 1000,549,1050,575,0 782,534,832,574,0 358,519,421,570,0 63,343,199,409,0 297,198,891,426,0 928,306,1440,466,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_618.jpg 1,1,249,309,0 255,40,352,318,0 362,46,461,312,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_619.jpg 1278,702,1600,869,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_62.jpg 893,411,915,429,0 579,421,599,439,0 417,408,435,423,0 236,419,253,436,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_621.jpg 907,1336,3778,2729,0 10,1695,888,2301,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_623.jpg 1,318,170,523,0 262,191,644,523,0 672,210,980,275,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_624.jpg 355,105,531,249,0 109,1,295,247,0 1,1,89,226,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_625.jpg 824,531,1334,730,0 409,590,554,738,0 177,420,469,591,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_626.jpg 388,371,450,401,0 819,550,1000,649,0 988,469,1154,555,0 725,348,1002,446,0 1122,443,1156,464,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_63.jpg 216,109,298,182,0 349,188,413,228,0 58,216,342,329,0 178,336,216,367,0 233,358,259,387,0 380,324,433,368,0 411,283,491,308,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_630.jpg 695,205,951,358,0 349,210,463,349,0 140,201,210,331,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_631.jpg 689,498,1309,1401,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_633.jpg 71,287,464,448,0 1,178,76,225,0 488,75,749,274,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_634.jpg 582,185,683,219,0 449,175,515,231,0 209,142,427,259,0 131,185,192,224,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_635.jpg 1,92,56,341,0 61,249,108,325,0 257,103,609,329,0 155,76,179,140,0 106,193,248,310,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_637.jpg 1030,882,1098,946,0 1441,636,1501,699,0 860,890,895,950,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_638.jpg 286,391,410,440,0 422,268,514,308,0 1,291,75,328,0 165,350,199,370,0 164,422,190,439,0 626,293,691,315,0 437,373,506,426,0 557,388,638,413,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_639.jpg 13,167,653,455,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_641.jpg 190,122,243,159,0 148,130,169,146,0 43,73,96,111,0 74,109,147,162,0 201,77,237,106,0 2,7,169,48,0 1,50,17,61,0 195,1,300,54,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_642.jpg 178,278,215,312,0 1,133,153,298,0 439,254,703,347,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_643.jpg 147,112,266,255,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_646.jpg 77,3,800,326,0 1,173,47,266,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_648.jpg 585,108,845,351,0 94,808,390,1153,0 1959,1265,2276,1518,0 485,306,2159,1337,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_649.jpg 57,129,245,226,0 368,258,435,270,0 470,178,480,194,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_65.jpg 85,164,136,241,0 86,46,265,173,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_650.jpg 507,247,533,272,0 438,231,491,257,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_652.jpg 394,259,567,339,0 568,228,933,333,0 1039,286,1096,331,0 1151,172,1254,212,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_653.jpg 444,21,489,113,0 437,117,661,256,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_654.jpg 255,544,354,930,0 198,1044,275,1268,0 9,1103,122,1359,0 494,1224,545,1271,0 849,1091,1506,1297,0 1676,465,1754,991,0 1903,1094,2012,1165,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_657.jpg 475,519,1498,1194,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_658.jpg 63,2,223,262,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_66.jpg 52,1,336,199,0 326,66,600,339,0 64,291,95,319,0 118,310,166,342,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_660.jpg 1,121,132,191,0 201,172,394,198,0 228,134,447,167,0 486,95,530,115,0 22,252,38,266,0 347,84,386,105,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_661.jpg 631,110,1009,282,0 350,196,420,263,0 128,155,174,201,0 278,20,342,102,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_662.jpg 514,277,564,340,0 718,300,750,342,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_664.jpg 471,2076,729,2261,0 2090,1688,2987,2134,0 3313,1530,3748,1853,0 2921,1745,3237,1938,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_666.jpg 426,231,551,425,0 593,301,833,541,0 886,457,1274,715,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_667.jpg 44,2112,1271,2457,0 1117,1997,2156,2721,0 2144,2157,3041,2566,0 3865,2382,4096,2530,0 1020,1275,1108,1442,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_670.jpg 951,520,990,571,0 12,408,866,657,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_671.jpg 252,367,332,479,0 558,355,612,456,0 290,30,468,222,0 56,104,147,145,0 235,132,271,165,0 4,74,43,129,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_672.jpg 67,102,150,191,0 397,156,519,343,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_675.jpg 11,1,730,416,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_676.jpg 42,232,189,302,0 240,277,313,320,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_677.jpg 251,132,478,595,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_679.jpg 1,302,414,489,0 942,289,1245,493,0 786,339,905,581,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_680.jpg 211,153,864,558,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_681.jpg 608,717,788,790,0 1053,679,1168,731,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_682.jpg 195,735,350,852,0 1401,506,1523,613,0 1548,411,1652,500,0 1865,816,2000,1022,0 1346,959,1407,1046,0 62,569,132,620,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_683.jpg 667,162,917,300,0 517,89,620,300,0 84,1,245,300,0 406,196,445,300,0 195,110,291,235,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_684.jpg 110,204,226,266,0 22,259,54,281,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_687.jpg 384,901,543,1015,0 863,990,977,1067,0 1085,796,1566,885,0 1345,699,1529,758,0 1107,622,1280,807,0 3,621,103,790,0 166,699,628,795,0 681,581,940,733,0 829,775,928,838,0 954,767,1025,790,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_688.jpg 14,362,193,481,0 218,323,491,496,0 493,177,749,466,0 702,270,937,437,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_689.jpg 142,83,331,251,0 340,147,378,186,0 362,76,526,188,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_69.jpg 94,16,298,401,0 2194,2275,2705,2535,0 3761,1975,4213,2531,0 427,2031,676,2283,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_690.jpg 2,228,267,368,0 273,91,798,495,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_691.jpg 1,328,588,1095,0 1037,1317,1282,1555,0 1182,9,2431,1488,0 944,649,1051,818,0 1055,666,1193,851,0 946,851,995,920,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_692.jpg 1,2,480,238,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_694.jpg 50,177,437,448,0 488,400,898,546,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_696.jpg 109,185,405,231,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_698.jpg 164,121,210,150,0 354,137,411,170,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_7.jpg 1,1079,129,1236,0 263,976,1308,1211,0 1400,994,1496,1076,0 1542,1024,1668,1141,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_701.jpg 2,183,343,251,0 367,1,611,250,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_702.jpg 180,366,229,429,0 265,251,328,365,0 378,181,435,354,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_703.jpg 200,253,869,462,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_704.jpg 289,2,404,119,0 455,50,564,140,0 412,200,487,367,0 518,153,754,391,0 907,346,987,418,0 597,617,674,681,0 619,500,686,552,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_705.jpg 1480,780,1678,1499,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_706.jpg 99,259,125,283,0 149,275,218,295,0 483,276,558,314,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_707.jpg 378,357,473,414,0 1,1,173,170,0 288,362,355,412,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_708.jpg 281,6,1816,554,0 1819,339,1910,439,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_709.jpg 408,322,800,494,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_710.jpg 433,489,558,552,0 778,537,813,557,0 583,479,699,563,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_711.jpg 11,298,100,443,0 1496,883,1837,1015,0 1139,446,1325,568,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_712.jpg 1,1,520,347,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_713.jpg 233,174,339,269,0 400,177,422,195,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_714.jpg 1,40,638,305,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_715.jpg 248,1,464,194,0 35,15,438,300,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_716.jpg 1,3,485,319,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_717.jpg 293,14,1237,990,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_718.jpg 15,116,325,405,0 343,249,425,310,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_72.jpg 151,311,172,359,0 203,310,230,352,0 261,313,280,359,0 252,402,280,427,0 339,326,365,358,0 146,404,161,445,0 200,403,222,454,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_721.jpg 12,214,84,249,0 193,180,304,209,0 406,217,469,261,0 497,203,627,254,0 665,261,702,278,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_722.jpg 38,364,244,469,0 311,360,1199,646,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_723.jpg 147,75,640,356,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_724.jpg 429,224,437,243,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_725.jpg 14,65,136,142,0 128,49,414,382,0 425,216,478,294,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_726.jpg 107,393,312,522,0 275,198,545,349,0 782,242,918,334,0 991,47,1110,117,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_727.jpg 407,83,637,629,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_728.jpg 326,89,898,477,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_730.jpg 235,50,638,359,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_731.jpg 482,308,629,440,0 848,446,889,471,0 996,415,1024,453,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_732.jpg 184,808,929,1259,0 1495,747,1576,778,0 1241,793,1327,860,0 406,669,425,735,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_733.jpg 4,283,321,493,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_734.jpg 284,44,308,336,0 307,262,636,349,0 366,107,395,334,0 578,24,617,185,0 24,243,283,341,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_735.jpg 24,202,111,297,0 237,191,482,357,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_736.jpg 293,378,461,474,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_737.jpg 564,214,660,252,0 839,177,927,215,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_738.jpg 326,315,419,385,0 532,321,587,353,0 1065,318,1094,339,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_739.jpg 456,94,773,776,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_740.jpg 147,193,203,237,0 449,201,497,232,0 503,236,569,274,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_741.jpg 1,2,779,438,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_742.jpg 1,10,2814,1584,0 1,1678,279,1936,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_743.jpg 615,525,716,560,0 608,351,648,392,0 673,381,698,406,0 115,470,371,535,0 1,446,90,513,0 113,309,267,417,0 100,414,234,451,0 18,318,123,379,0 382,318,503,433,0 630,249,723,313,0 484,367,575,431,0 726,418,961,555,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_744.jpg 188,196,492,319,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_745.jpg 550,283,671,416,0 346,499,387,551,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_746.jpg 54,27,431,244,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_747.jpg 193,294,260,324,0 178,187,257,242,0 524,304,587,362,0 343,108,359,144,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_748.jpg 122,26,1177,497,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_75.jpg 80,176,494,316,0 560,283,635,316,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_750.jpg 1,197,175,335,0 47,116,103,173,0 117,174,164,212,0 259,160,416,346,0 482,199,638,344,0 494,87,626,166,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_751.jpg 239,259,253,284,0 280,184,333,254,0 11,240,77,288,0 75,284,103,315,0 449,145,552,225,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_752.jpg 94,52,776,510,0 1,396,49,453,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_753.jpg 455,598,623,831,0 805,775,931,832,0 906,579,989,698,0 994,429,1480,823,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_76.jpg 292,106,666,334,0 3,372,406,498,0 546,386,743,507,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_77.jpg 456,487,798,688,0 54,586,555,767,0 26,249,110,323,0 134,269,678,394,0 828,462,951,591,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_78.jpg 6,230,209,587,0 273,341,800,600,0 267,175,295,258,0 534,182,558,253,0 542,296,577,329,0 172,15,198,95,0 118,31,151,153,0 642,1,674,86,0 728,20,800,253,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_79.jpg 167,261,493,434,0 524,209,726,339,0 190,14,312,248,0 1,251,68,347,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_81.jpg 319,238,473,299,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_82.jpg 229,173,344,281,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_83.jpg 319,1,381,34,0 160,1,304,135,0 11,23,71,82,0 137,223,158,260,0 95,1,129,18,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_84.jpg 280,312,510,421,0 3,463,83,532,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_88.jpg 1,281,95,338,0 333,76,550,278,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_89.jpg 573,1325,1240,2002,0 690,1049,964,1273,0 994,1080,1105,1169,0 1157,1054,1229,1158,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_9.jpg 37,767,110,861,0 132,786,478,946,0 574,904,641,966,0 264,684,349,739,0 455,715,582,807,0 689,590,1147,770,0 1437,561,1500,621,0 413,661,483,708,0 135,692,260,766,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_90.jpg 57,224,90,256,0 161,165,198,201,0 123,234,371,331,0 337,179,408,240,0 427,299,458,336,0 522,256,716,331,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_91.jpg 919,1,1451,815,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_95.jpg 7,257,768,440,0 273,421,407,472,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_96.jpg 298,240,390,275,0 268,172,318,198,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_97.jpg 123,1899,1268,2705,0 1400,1370,1979,1958,0 1756,840,2244,1349,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_98.jpg 175,5,412,337,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__fire_images_fire_99.jpg 71,18,481,380,0
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_1.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_101.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_102.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_103.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_105.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_106.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_107.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_108.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_109.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_11.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_110.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_111.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_112.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_113.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_114.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_115.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_116.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_117.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_118.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_119.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_120.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_122.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_123.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_124.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_125.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_126.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_127.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_128.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_129.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_13.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_134.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_135.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_136.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_138.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_139.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_140.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_142.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_144.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_145.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_146.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_147.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_148.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_149.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_150.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_151.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_152.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_153.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_154.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_155.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_156.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_158.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_159.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_16.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_161.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_165.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_166.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_167.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_169.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_17.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_170.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_171.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_173.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_174.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_175.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_176.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_177.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_178.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_179.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_18.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_180.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_181.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_182.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_184.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_185.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_186.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_187.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_189.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_190.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_191.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_192.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_193.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_194.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_195.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_196.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_197.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_198.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_199.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_2.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_20.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_200.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_202.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_203.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_204.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_206.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_207.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_208.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_209.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_21.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_210.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_211.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_212.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_213.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_214.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_215.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_216.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_217.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_218.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_219.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_22.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_220.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_221.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_222.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_223.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_225.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_226.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_227.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_229.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_23.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_230.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_232.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_233.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_234.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_235.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_236.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_237.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_238.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_239.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_24.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_240.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_242.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_243.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_244.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_25.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_26.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_28.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_3.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_31.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_32.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_33.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_34.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_35.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_37.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_38.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_39.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_40.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_41.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_42.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_44.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_45.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_46.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_47.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_48.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_49.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_5.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_50.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_51.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_52.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_53.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_54.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_55.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_56.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_57.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_58.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_59.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_6.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_60.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_61.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_62.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_63.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_64.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_65.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_66.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_67.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_68.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_69.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_7.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_71.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_72.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_73.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_74.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_75.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_76.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_78.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_8.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_80.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_82.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_84.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_85.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_86.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_87.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_88.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_9.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_90.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_91.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_93.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_94.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_95.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_96.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_97.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_98.jpg
+D:\git\mobilenet-yolov4-pytorch\VOCdevkit/VOCfire_forest/JPEGImages/__non_fire_images_non_fire_99.jpg

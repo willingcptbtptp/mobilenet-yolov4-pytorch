@@ -1,0 +1,6 @@
+账号：ssh -p 18305 root@region-8.autodl.com
+密码：Kc+r0O31Pz
+
+host:region-8.autodl.com
+应户名：root
+端口：18305

@@ -10,10 +10,11 @@ from nets.yolo import YoloBody
 if __name__ == "__main__":
     input_shape     = [416, 416]
     anchors_mask    = [[6, 7, 8], [3, 4, 5], [0, 1, 2]]
-    num_classes     = 80
-    backbone        = 'mobilenetv1'
+    num_classes     = 1
+    backbone        = 'mobilenetv2'
     
     device  = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # device='cpu'
     m       = YoloBody(anchors_mask, num_classes, backbone=backbone).to(device)
     summary(m, (3, input_shape[0], input_shape[1]))
     

@@ -1,6 +1,9 @@
 import torch
 import torch.nn as nn
-from torchvision.models.utils import load_state_dict_from_url
+try:
+    from torchvision.models.utils import load_state_dict_from_url
+except:
+    from torch.hub import load_state_dict_from_url
 
 
 class VGG(nn.Module):

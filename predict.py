@@ -3,12 +3,15 @@
 #   整合到了一个py文件中，通过指定mode进行模式的修改。
 #-----------------------------------------------------------------------#
 import time
-
+import os
 import cv2
 import numpy as np
 from PIL import Image
+import shutil
 
 from yolo import YOLO
+from script.plot_gt import plot_gt
+
 
 if __name__ == "__main__":
     yolo = YOLO()
@@ -21,7 +24,7 @@ if __name__ == "__main__":
     #   'heatmap'           表示进行预测结果的热力图可视化，详情查看下方注释。
     #   'export_onnx'       表示将模型导出为onnx，需要pytorch1.7.1以上。
     #----------------------------------------------------------------------------------------------------------#
-    mode = "predict"
+    mode ='fps' #"predict"
     #-------------------------------------------------------------------------#
     #   crop                指定了是否在单张图片预测后对目标进行截取
     #   count               指定了是否进行目标的计数
@@ -56,8 +59,15 @@ if __name__ == "__main__":
     #   
     #   dir_origin_path和dir_save_path仅在mode='dir_predict'时有效
     #-------------------------------------------------------------------------#
-    dir_origin_path = "img/"
-    dir_save_path   = "img_out/"
+
+    # dir_origin_path = "img/"
+    dir_origin_path = "img_test_city/"
+
+    # dir_save_path   = "img_out/"
+    # dir_save_path = "img_test_out/"
+    #输出文件夹名称默认为“输入文件夹名+_out"
+    dir_save_path=os.path.split(dir_origin_path)[0] + '_out/'
+
     #-------------------------------------------------------------------------#
     #   heatmap_save_path   热力图的保存路径，默认保存在model_data下
     #   
@@ -143,10 +153,15 @@ if __name__ == "__main__":
         tact_time = yolo.get_FPS(img, test_interval)
         print(str(tact_time) + ' seconds, ' + str(1/tact_time) + 'FPS, @batch_size 1')
 
+    #检测一个文件夹中的图片
+    #并顺便把gt也画上去
     elif mode == "dir_predict":
         import os
 
         from tqdm import tqdm
+
+        if os.path.exists(dir_save_path):
+            shutil.rmtree(dir_save_path)    #删除之前已经存在的文件，防止产生误解
 
         img_names = os.listdir(dir_origin_path)
         for img_name in tqdm(img_names):
@@ -157,6 +172,8 @@ if __name__ == "__main__":
                 if not os.path.exists(dir_save_path):
                     os.makedirs(dir_save_path)
                 r_image.save(os.path.join(dir_save_path, img_name.replace(".jpg", ".png")), quality=95, subsampling=0)
+        plot_gt(dir_save_path)
+
 
     elif mode == "heatmap":
         while True:
